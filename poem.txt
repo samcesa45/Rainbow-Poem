@@ -7,8 +7,10 @@ Blue
 green,
 Indigo
 Yellow
-Unicorn
+Unicorn,
+Beacher
 Red
 These are the colors of the rainbow.
 And the unicorn.
-Pony
+Pony.
+And the beacher
